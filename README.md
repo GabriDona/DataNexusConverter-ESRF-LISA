@@ -66,8 +66,6 @@ Usage
    configuration file is read successfully, the configuration details 
    will appear on the screen. The configuration file must contain in the
    following order: atomic number (Z), the edge and the Bragg expression.
-   For clarity, a compatible file shows the following framework:
-
 
 3. Click on "Open file" to select the `.dat` files to convert.
    Pay attention, only '.dat' files will be correctly read.

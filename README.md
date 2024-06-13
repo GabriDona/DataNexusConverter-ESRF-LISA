@@ -80,7 +80,9 @@ Usage
 6. Use the "QUIT" button to exit the application.
 
 
-
+Contact
+-------
+For any inquiries or issues, please contact the project maintainer at gabriele.donati11@studio.unibo.it.
 ## Author
 
 - Gabriele Donati

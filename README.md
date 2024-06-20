@@ -3,7 +3,7 @@ DataNexusConverter
 
 Overview
 --------
-Welcome to the Data Nexus Converter application! This tool is designed to simplify and streamline the process of converting `.dat` files into Nexus (`.nx5`) format. It provides a user-friendly interface for loading configuration files, selecting data files, and performing conversions efficiently. This program works in conjunction with ROIMaster (repository path [a link](https://github.com/GabriDona/ROIMaster-ESRF-LISA)) With the help of the Data Nexus Converter, it is possible to create '.hdf5' files compatible with the ROIMaster application. ROIMaster allows for very efficient retrospective analysis.
+Welcome to the Data Nexus Converter application! This tool is designed to simplify and streamline the process of converting `.dat` files into Nexus (`.nx5`) format. It provides a user-friendly interface for loading configuration files, selecting data files, and performing conversions efficiently. This program works in conjunction with ROIMaster (repository path [a link](https://github.com/GabriDona/ROIMaster-ESRF-LISA)) With the help of the Data Nexus Converter, it is possible to create files compatible with the ROIMaster application. ROIMaster allows for very efficient retrospective analysis.
 
 Features
 --------

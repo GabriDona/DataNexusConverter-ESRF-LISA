@@ -19,11 +19,11 @@ Requirements
 - Required Libraries:
   - tkinter
   - numpy (1.19.5 or above)
-  - pyglet
+  - pyglet (2.0.15 or above)
   - PIL (Pillow) (8.1.0 or above)
   - customtkinter (4.6.3 or above)
   - readingfunct2 (custom module)
-  - h5py
+  - h5py (3.1.0 or above)
 
 
  

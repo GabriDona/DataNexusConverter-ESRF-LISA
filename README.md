@@ -25,18 +25,6 @@ Requirements
   - readingfunct2 (custom module)
   - h5py
 
-Installation
-------------
-1. Clone the repository or download the source code.
-
-2. Install the required libraries:
-
- - pip install tk
- - pip install numpy
- - pip install --upgrade --user pyglet
- - pip install pillow
- - pip3 install customtkinter
- - pip install h5py
 
  
 The Data Nexus Converter is an application that allows converting 
